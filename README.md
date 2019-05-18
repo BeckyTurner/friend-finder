@@ -4,6 +4,4 @@ Friend Finder is an app where a user answer a series of personality questions ra
 
 ### Running Locally
 
-To run this program, navigate to the folder on the command line and input the following command: node server.js
-I think you should use an
-`<addr>` element here instead.
+To run this program, navigate to the folder in the terminal and input the following command: `node server.js`. Open your browser and navigate to `localhost:PORT` (`8080` in this case).
